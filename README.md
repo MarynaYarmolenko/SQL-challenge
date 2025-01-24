@@ -1,5 +1,9 @@
 # SQL-challengies:
 
+2025 January - 
+
+https://datalemur.com/sql-game
+
 2025 January
 
 https://mystery.knightlab.com/
